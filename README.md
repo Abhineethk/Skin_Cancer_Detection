@@ -20,3 +20,14 @@ Preprocessing techniques such as resizing, normalization, and augmentation are a
 ## Future Improvements
 - Improve model accuracy with more data
 - Deploy as a web application
+- 
+## How to Run
+1. Open the notebook in Google Colab or Jupyter Notebook
+2. Install required libraries (TensorFlow, NumPy, etc.)
+3. Run all cells to train and evaluate the model
+
+## Dataset
+Dataset used from Kaggle (or mention if custom dataset)
+
+## Results
+The model achieved good accuracy in classifying skin cancer images.
